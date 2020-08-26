@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# GNU General Public License v3.0:
+# For license text see LICENSE file.
 
 import re
 import requests
